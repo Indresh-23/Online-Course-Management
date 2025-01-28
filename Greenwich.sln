@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Greenwich", "http://localhost/Greenwich/Greenwich.csproj", "{1FD00DF7-7CA5-4EEA-A54D-D242E81D902F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD00DF7-7CA5-4EEA-A54D-D242E81D902F}.Debug|Default.ActiveCfg = Debug|.NET
+		{1FD00DF7-7CA5-4EEA-A54D-D242E81D902F}.Debug|Default.Build.0 = Debug|.NET
+		{1FD00DF7-7CA5-4EEA-A54D-D242E81D902F}.Release|Default.ActiveCfg = Release|.NET
+		{1FD00DF7-7CA5-4EEA-A54D-D242E81D902F}.Release|Default.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

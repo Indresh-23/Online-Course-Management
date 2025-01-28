@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Greenwich">
+</Property><Property Name="Solution File" Value="E:\PROJECTS\NET\NetProjects\CIS\CIS PROJECT\IntegratedCollegeMangamentSystem\GreenWich\Greenwich.sln">
+</Property><Property Name="User Options File" Value="E:\PROJECTS\NET\NetProjects\CIS\CIS PROJECT\IntegratedCollegeMangamentSystem\GreenWich\Greenwich.suo">
+</Property><Property Name="Date" Value="Thursday, March 20, 2008">
+</Property><Property Name="Time" Value="18:24 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Greenwich.sln" Description="File successfully backed up as E:\PROJECTS\NET\NetProjects\CIS\CIS PROJECT\IntegratedCollegeMangamentSystem\GreenWich\Backup\Greenwich.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Greenwich.suo" Description="File successfully backed up as E:\PROJECTS\NET\NetProjects\CIS\CIS PROJECT\IntegratedCollegeMangamentSystem\GreenWich\Backup\Greenwich.suo">
+</Event><Event ErrorLevel="1" Project="Greenwich" Source="http://localhost/Greenwich/Greenwich.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="2" Project="http://localhost/Greenwich/" Source="http://localhost/Greenwich/" Description="ERROR: Failed to backup website http://localhost/Greenwich/">
+</Event><Event ErrorLevel="0" Project="" Source="Greenwich.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Greenwich.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,1243 @@
+ADDRESS {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+BLOCKQUOTE {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+B {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+BODY {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+CAPTION {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+CENTER {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+DD {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+DIR {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+DIV {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+DL {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+DT {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+TEXTAREA {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+MENU {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+OL {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+STRONG {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+P {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+TD {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+TH {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+UL {
+	FONT-FAMILY: verdana,arial,tahoma,geneva,sans-serif,serif
+}
+A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #369; TEXT-DECORATION: underline
+}
+A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #906; TEXT-DECORATION: underline
+}
+A:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c00; TEXT-DECORATION: underline
+}
+A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c00; TEXT-DECORATION: underline
+}
+BODY {
+	BACKGROUND: #f1f7d2; MARGIN: 0px
+}
+H1 {
+	MARGIN: 0px; FONT: bold 23px verdana,arial,tahoma,geneva,sans-serif,serif
+}
+H2 {
+	MARGIN: 0px; FONT: bold 19px verdana,arial,tahoma,geneva,sans-serif,serif
+}
+H3 {
+	MARGIN: 0px; FONT: bold 17px verdana,arial,tahoma,geneva,sans-serif,serif
+}
+H4 {
+	MARGIN: 0px; FONT: bold 14px verdana,arial,tahoma,geneva,sans-serif,serif
+}
+H5 {
+	MARGIN: 0px; FONT: bold 11px verdana,arial,tahoma,geneva,sans-serif,serif
+}
+H6 {
+	MARGIN: 0px; FONT: bold 10px verdana,arial,tahoma,geneva,sans-serif,serif
+}
+HR {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px; COLOR: #ccc; HEIGHT: 1px
+}
+FORM {
+	MARGIN: 0px
+}
+TEXTAREA {
+	FONT-SIZE: 11px
+}
+INPUT {
+	FONT-SIZE: 11px
+}
+SELECT {
+	FONT-SIZE: 11px
+}
+OPTION {
+	FONT-SIZE: 11px
+}
+UL {
+	MARGIN: 5px 0px 5px 5px
+}
+OL {
+	MARGIN: 5px 0px 5px 5px
+}
+LI {
+	MARGIN: 0.3em 0px
+}
+BODY {
+	FONT-SIZE: 11px
+}
+DIV {
+	FONT-SIZE: 11px
+}
+P {
+	FONT-SIZE: 11px
+}
+TD {
+	FONT-SIZE: 11px
+}
+SPAN {
+	FONT-SIZE: 11px
+}
+LI {
+	FONT-SIZE: 11px
+}
+OL {
+	FONT-SIZE: 11px
+}
+UL {
+	FONT-SIZE: 11px
+}
+P {
+	MARGIN: 0px 0px 15px
+}
+SMALL {
+	FONT-SIZE: 11px
+}
+.outline {
+	BORDER-RIGHT: #bfd1e2 1px solid; BORDER-TOP: #bfd1e2 1px solid; BORDER-LEFT: #bfd1e2 1px solid; BORDER-BOTTOM: #bfd1e2 1px solid
+}
+.barhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #fff; TEXT-DECORATION: none
+}
+.barhead:hover {
+	TEXT-DECORATION: underline
+}
+.boxhead:hover {
+	TEXT-DECORATION: underline
+}
+.carhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #254f79
+}
+.thead {
+	FONT-WEIGHT: bold; COLOR: #254f79
+}
+.smorange {
+	COLOR: #c60
+}
+.results {
+	FONT-WEIGHT: bold; COLOR: #c60
+}
+.big {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px
+}
+.boxhead_link {
+	FONT-WEIGHT: bold; COLOR: #254f79
+}
+.boxhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.border2 {
+	BORDER: 1px solid #000000; BACKGROUND: #ffffff
+}
+
+#pagewrapper {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BACKGROUND: #fff; MARGIN: 3px auto 10px; BORDER-LEFT: #000 1px solid; WIDTH: 765px; BORDER-BOTTOM: #000 1px solid
+}
+#printpagewrapper {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BACKGROUND: #fff; MARGIN: 3px auto 10px; BORDER-LEFT: #000 1px solid; WIDTH: 600px; BORDER-BOTTOM: #000 1px solid
+}
+#header {
+	MARGIN: 0px 0px 5px
+}
+#body {
+	FLOAT: left; MARGIN: 0px 0px 0px
+}
+#content {
+	MARGIN: 0px 0px 0px 155px; WIDTH: 570px
+}
+#contentThin {
+	MARGIN: 0px 5px 50px 160px; WIDTH: 425px
+}
+#noLeftNavcontent {
+	MARGIN: 0px 0px 0px 15px; WIDTH: 735px
+}
+#rhsContainer {
+	FLOAT: right; MARGIN: 5px 0px 20px
+}
+#clear {
+	CLEAR: both
+}
+#footer {
+	MARGIN: 10px 0px 0px
+}
+.banner {
+	FONT-WEIGHT: normal
+}
+TABLE.header {
+	BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #92adc5
+}
+TABLE.header TH {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #fff; TEXT-ALIGN: left
+}
+TABLE.header TD {
+	COLOR: #fff; TEXT-ALIGN: right
+}
+TABLE.header TD.listtypebuttons {
+	MARGIN-TOP: 3px
+}
+TABLE.header TD A:link {
+	COLOR: #fff
+}
+#searchresults TABLE.header TD A:visited {
+	COLOR: #fff
+}
+#searchresults TABLE.header TD A:active {
+	COLOR: #fff
+}
+TABLE.header TD A:hover {
+	COLOR: #d7dbdf
+}
+H3.editorialhdr {
+	BORDER-TOP: #fff 2px solid; FONT: bold 17px verdana,arial,tahoma,geneva,sans-serif,serif; BORDER-BOTTOM: #000 1px solid; TEXT-ALIGN: left
+}
+H3.standardhdr {
+	FONT: bold 17px verdana,arial,tahoma,geneva,sans-serif,serif; COLOR: #fff; BORDER-TOP-COLOR: #4e759b; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #92adc5; TEXT-ALIGN: left
+}
+H1.editorialhdr {
+	BORDER-TOP: #fff 2px solid; FONT: bold 17px verdana,arial,tahoma,geneva,sans-serif,serif; BORDER-BOTTOM: #000 1px solid; TEXT-ALIGN: left
+}
+LI.arrow {
+	PADDING-LEFT: 14px; BACKGROUND: url(http://www.drive.com.au/images/li_point.gif) #fff no-repeat 0px 0px; LINE-HEIGHT: 1.3em
+}
+UL LI.arrow {
+	BACKGROUND: url(http://www.drive.com.au/images/li_arrow.gif) no-repeat 0px 0px; LIST-STYLE-TYPE: none
+}
+.box {
+	BORDER-TOP: #4e759b 1px solid; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #eff3f7
+}
+.box TD {
+	MARGIN: 0px; COLOR: #165081
+}
+.box P {
+	MARGIN: 0px; COLOR: #165081
+}
+.box TD.header {
+	BORDER-TOP: #fff 1px solid; FONT: bold 13px verdana; COLOR: #fff; BORDER-BOTTOM: #6488a7 1px solid; BACKGROUND-COLOR: #a1bbd3
+}
+.box TD.subheader {
+	BORDER-TOP: #fff 3px solid; MARGIN: 10px 0px; FONT: bold 11px verdana; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #fff; TEXT-ALIGN: left
+}
+.box TD A:link {
+	COLOR: #4e759b
+}
+box TD A:visited {
+	COLOR: #4e759b
+}
+box TD A:active {
+	COLOR: #4e759b
+}
+.box TD A:hover {
+	COLOR: #e3e8ed; BACKGROUND-COLOR: #4e759b
+}
+.box TD.search {
+	BORDER-TOP: #4e759b 1px solid; BACKGROUND-COLOR: #f3f6f7
+}
+.excludeOrHide {
+	DISPLAY: none
+}
+.sponsoredLinks {
+	BORDER-RIGHT: #bbbbbb 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #bbbbbb 1px solid; MARGIN-TOP: 5px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: #bbbbbb 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #bbbbbb 1px solid; BACKGROUND-COLOR: #fafafa
+}
+.sponsoredLinksheader {
+	FONT-WEIGHT: bold; BACKGROUND: #eeeeee; COLOR: #777777
+}
+.sponsoredLinks UL {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 0px; LIST-STYLE-TYPE: none
+}
+.sponsoredLinks LI {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 0px
+}
+A.smorange:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c60; TEXT-DECORATION: underline
+}
+A.smorange_underline:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c60; TEXT-DECORATION: underline
+}
+A.vSmorange_underline:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c60; TEXT-DECORATION: underline
+}
+A.smorange:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c60; TEXT-DECORATION: underline
+}
+A.smorange_underline:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c60; TEXT-DECORATION: underline
+}
+A.vSmorange_underline:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c60; TEXT-DECORATION: underline
+}
+A.smorange:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c60; TEXT-DECORATION: underline
+}
+A.smorange_underline:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c60; TEXT-DECORATION: underline
+}
+A.vSmorange_underline:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c60; TEXT-DECORATION: underline
+}
+A.smorange:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c00; TEXT-DECORATION: underline
+}
+A.smorange_underline:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c00; TEXT-DECORATION: underline
+}
+A.vSmorange_underline:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #c00; TEXT-DECORATION: underline
+}
+#navcontainer {
+	FLOAT: left; MARGIN-LEFT: 3px; WIDTH: 130px
+}
+#navcontainer UL {
+	MARGIN: 0px; LIST-STYLE-TYPE: none;
+}
+#navcontainer UL UL {
+	MARGIN: 0px; LIST-STYLE-TYPE: none
+}
+#navcontainer UL LI {
+	MARGIN: 0px
+}
+#navcontainer UL LI UL LI {
+	MARGIN: 0px
+}
+#navcontainer UL LI A {
+	BORDER-TOP: #fff 1px solid; DISPLAY: block; WIDTH: 132px; COLOR: #1c5082; BORDER-BOTTOM: #d1dee5 1px solid; BACKGROUND-COLOR: #e7eef2
+}
+#navcontainer UL LI P {
+	BORDER-TOP: #fff 1px solid; DISPLAY: block; WIDTH: 132px; COLOR: #1c5082; BORDER-BOTTOM: #d1dee5 1px solid; BACKGROUND-COLOR: #e7eef2
+}
+
+#navcontainer UL LI A:link {
+	COLOR: #1c5082; TEXT-DECORATION: none
+}
+#navcontainer UL LI A:visited {
+	COLOR: #1c5082; TEXT-DECORATION: none
+}
+#navcontainer UL LI A:active {
+	COLOR: #1c5082; TEXT-DECORATION: none
+}
+#navcontainer UL LI A:hover {
+	COLOR: #fff; BACKGROUND-COLOR: #c1cfdc
+}
+#navcontainer UL#nav LI A {
+	PADDING-LEFT: 15px; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(http://localhost/carslane/image/nav_sub.gif)
+}
+#navcontainer UL#nav LI A:hover {
+	PADDING-LEFT: 15px; BACKGROUND-IMAGE: url(http://localhost/carslane/image/nav_sub_2.gif)
+}
+#navcontainer UL LI A#home {
+	BORDER-TOP: #fff 1px solid; BACKGROUND-IMAGE: url(http://localhost/carslane/image/nav_sub_2.gif); COLOR: #fff; BORDER-BOTTOM: #d1dee5 1px solid; BACKGROUND-COLOR: #7c9cbc
+}
+#navcontainer UL LI A#home:hover {
+	BACKGROUND-IMAGE: url(http://localhost/carslane/image/nav_sub_2.gif); BACKGROUND-COLOR: #c1cfdc
+}
+#navcontainer UL LI#subnav A:link {
+	FONT-WEIGHT: normal; BACKGROUND-IMAGE: none
+}
+#navcontainer UL LI#subnav A:visited {
+	FONT-WEIGHT: normal; BACKGROUND-IMAGE: none
+}
+#navcontainer UL LI#subnav A:active {
+	FONT-WEIGHT: normal; BACKGROUND-IMAGE: none
+}
+#navcontainer UL LI#subnav A {
+	BORDER-TOP: #fff 1px solid; BACKGROUND-IMAGE: url(http://www.drive.com.au/css/nav_sub_3.gif); COLOR: #c60; BORDER-BOTTOM: #e7dbcf 1px solid; BACKGROUND-COLOR: #f3ebe3
+}
+#navcontainer UL LI UL LI A {
+	BORDER-TOP: #fff 1px solid; DISPLAY: block; WIDTH: 132px; COLOR: #c60; BORDER-BOTTOM: #e7dbcf 1px solid; BACKGROUND-COLOR: #f3ebe3
+}
+#navcontainer UL LI UL LI A:link {
+	FONT-WEIGHT: normal; COLOR: #c60; TEXT-DECORATION: none
+}
+#navcontainer UL LI UL LI A:visited {
+	FONT-WEIGHT: normal; COLOR: #c60; TEXT-DECORATION: none
+}
+#navcontainer UL LI UL LI A:active {
+	FONT-WEIGHT: normal; COLOR: #c60; TEXT-DECORATION: none
+}
+#navcontainer UL LI#subnav A:hover {
+	BACKGROUND-IMAGE: url(http://www.drive.com.au/css/nav_sub_3.gif); BACKGROUND-COLOR: #f3d3b2
+}
+#navcontainer UL LI#subnav UL LI A:hover {
+	BACKGROUND-IMAGE: url(http://www.drive.com.au/css/nav_sub_3.gif); BACKGROUND-COLOR: #f3d3b2
+}
+#navcontainer UL LI UL LI A:hover {
+	BACKGROUND-IMAGE: url(http://www.drive.com.au/css/nav_sub_3.gif); BACKGROUND-COLOR: #f3d3b2
+}
+#navcontainer UL#nav LI A#section {
+	FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(http://www.drive.com.au/css/nav_sub_3.gif)
+}
+#navcontainer UL#nav LI UL LI A#section {
+	FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(http://www.drive.com.au/css/nav_sub_3.gif)
+}
+#navcontainer UL#nav LI A#on {
+	FONT-WEIGHT: bold
+}
+#navcontainer UL#nav LI UL LI A#on {
+	FONT-WEIGHT: bold
+}
+#navcontainer UL.nav2 LI A {
+	PADDING-RIGHT: 0px; FONT-WEIGHT: normal
+}
+#navcontainer UL LI A.title {
+	FONT-WEIGHT: bold; COLOR: #1c5082; BORDER-TOP-STYLE: none; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #fff
+}
+#navcontainer .nav2 {
+	MARGIN-TOP: 1em
+}
+#navcontainer .nav2 A {
+	BACKGROUND: #f2f8fb
+}
+#navcontainer UL.nav2 LI A#selected {
+	FONT-WEIGHT: bold; BACKGROUND: #f3ebe3; COLOR: #c60; BORDER-BOTTOM: #e7dbcf 1px solid
+}
+.searchbox {
+	BORDER-RIGHT: #165081 1px solid; BORDER-TOP: #165081 1px; MARGIN: 0px; BORDER-LEFT: #165081 1px solid; BORDER-BOTTOM: #165081 1px solid; BACKGROUND-COLOR: #eaeff4
+}
+.emailbox {
+	BORDER-RIGHT: #165081 1px solid; BORDER-TOP: #165081 1px solid; MARGIN: 0px; BORDER-LEFT: #165081 1px solid; BORDER-BOTTOM: #165081 1px solid; BACKGROUND-COLOR: #eaeff4
+}
+.emailhdr {
+	MARGIN: 0px; FONT: 12px verdana,tahoma,geneva,sans-serif,serif; BACKGROUND-COLOR: #cbd7e3
+}
+IMG.edthumb {
+	MARGIN-TOP: 3px; MARGIN-BOTTOM: 2px; MARGIN-RIGHT: 3px
+}
+.editorial {
+	COLOR: #c60
+}
+TH.emailhdr {
+	BORDER-TOP: #fff 2px solid; FONT: bold 12px verdana; COLOR: #0b3762; BORDER-BOTTOM: #6488a7 1px solid; BACKGROUND-COLOR: #c1cfdc; TEXT-ALIGN: left
+}
+#searchresults {
+	WIDTH: 595px
+}
+#searchresults HR {
+	MARGIN: 0px; COLOR: #4e759b; HEIGHT: 1px
+}
+#searchresults H1 {
+	FONT-SIZE: 17px; BORDER-BOTTOM: #000 1px solid
+}
+#searchresults TABLE.header {
+	WIDTH: 595px; COLOR: #fff; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #92adc5
+}
+#searchresults TABLE.header TH {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #fff
+}
+#searchresults TABLE.header TD {
+	COLOR: #fff
+}
+#searchresults TABLE.header TD.listtypebuttons {
+	MARGIN-TOP: 3px
+}
+#searchresults TABLE.header TD A:link {
+	COLOR: #fff
+}
+#searchresults TABLE.header TD A:visited {
+	COLOR: #fff
+}
+#searchresults TABLE.header TD A:active {
+	COLOR: #fff
+}
+#searchresults TABLE.header TD A:hover {
+	COLOR: #d7dbdf
+}
+#searchresults DIV.criteria {
+	BORDER-TOP: #b9c7d5 0px solid; FONT-SIZE: 11px; MARGIN: 5px 0px; COLOR: #666666; LINE-HEIGHT: 20px
+}
+#searchresults DIV.criteria STRONG {
+	COLOR: #4e759b
+}
+#searchresults TABLE.pagination {
+	BORDER-TOP: #4e759b 1px solid; COLOR: #165081; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #e3e8ed
+}
+#searchresults TABLE.pagination TD {
+	FONT-SIZE: 11px; COLOR: #4e759b
+}
+#searchresults TABLE.pagination TD A:link {
+	COLOR: #4e759b
+}
+#searchresults TABLE.pagination TD A:visited {
+	COLOR: #4e759b
+}
+#searchresults TABLE.pagination TD A:active {
+	COLOR: #4e759b
+}
+#searchresults TABLE.pagination TD A:hover {
+	COLOR: #e3e8ed; BACKGROUND-COLOR: #4e759b
+}
+#searchresults TABLE.titles {
+	BORDER-TOP: #b9c7d5 1px solid; FONT-SIZE: 12px; WIDTH: 595px; COLOR: #fff; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #92adc5
+}
+#searchresults TABLE.titles TH {
+	TEXT-ALIGN: left
+}
+#searchresults TABLE.titles TH A {
+	FONT-SIZE: 11px; COLOR: #fff
+}
+#searchresults TABLE.titles TH A:hover {
+	FONT-SIZE: 11px; COLOR: #d7dbdf
+}
+#searchresults TABLE.result {
+	MARGIN-TOP: 2px; FONT-SIZE: 11px; MARGIN-BOTTOM: 10px; WIDTH: 595px
+}
+#searchresults TABLE.result TD P {
+	FONT-SIZE: 11px; MARGIN: 5px 0px 5px 20px; COLOR: #373737
+}
+#searchresults TABLE.result TD P.listed {
+	MARGIN-LEFT: 20px; COLOR: #4e759b
+}
+#searchresults TABLE.result TD P.dealerad {
+	FONT-WEIGHT: bold; MARGIN-LEFT: 20px; COLOR: #000099; LINE-HEIGHT: 25px
+}
+#searchresults TABLE.result TD P.more {
+	MARGIN: 5px 0px 5px 20px; COLOR: #3333ff
+}
+#searchresults TABLE.result TH {
+	BORDER-TOP: #4e759b 1px solid; FONT-SIZE: 11px; LINE-HEIGHT: 20px; BACKGROUND-COLOR: #e3e8ed; TEXT-ALIGN: left
+}
+#searchresults TABLE.result TH {
+	BORDER-TOP: #4e759b 1px solid; FONT-SIZE: 11px; LINE-HEIGHT: 20px; BACKGROUND-COLOR: #e3e8ed; TEXT-ALIGN: left
+}
+#searchresults TABLE.result TH.year {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: verdana,arial,helvetica,tahoma,sans-serif
+}
+#searchresults TABLE.result TH.price {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: verdana,arial,helvetica,tahoma,sans-serif
+}
+#searchresults TABLE.result TH A:link {
+	COLOR: #4e759b; TEXT-ALIGN: left
+}
+#searchresults TABLE.result TH A:visited {
+	COLOR: #4e759b; TEXT-ALIGN: left
+}
+#searchresults TABLE.result TH A:active {
+	COLOR: #4e759b; TEXT-ALIGN: left
+}
+#searchresults TABLE.result TH A:hover {
+	COLOR: #e3e8ed; BACKGROUND-COLOR: #4e759b
+}
+#searchresults TABLE.result TD.special {
+	MARGIN-TOP: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #c60
+}
+#searchresults TABLE.result TD.picture {
+	BORDER-RIGHT: #4e759b 1px solid; BORDER-TOP: #4e759b 1px solid; BORDER-LEFT: #4e759b 1px solid; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #e3e8ed; TEXT-ALIGN: center
+}
+#searchresults TABLE.links {
+	BORDER-TOP: #4e759b 1px solid; FONT-SIZE: 11px; WIDTH: 595px; COLOR: #fff; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #4e759b
+}
+#searchresults TABLE.links TH {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #fff; BACKGROUND-COLOR: #92adc5; TEXT-ALIGN: left
+}
+#searchresults TABLE.links TD {
+	FONT-SIZE: 11px; COLOR: #fff
+}
+#searchresults TABLE.links TD A:link {
+	FONT-SIZE: 11px; COLOR: #fff; TEXT-ALIGN: left
+}
+#searchresults TABLE.links TD A:visited {
+	FONT-SIZE: 11px; COLOR: #fff; TEXT-ALIGN: left
+}
+#searchresults TABLE.links TD A:active {
+	FONT-SIZE: 11px; COLOR: #fff; TEXT-ALIGN: left
+}
+#searchresults TABLE.links TD A:hover {
+	FONT-SIZE: 11px; COLOR: #d7dbdf; TEXT-ALIGN: left
+}
+#searchresults box {
+	BORDER-TOP: #4e759b 1px solid; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #e3e8ed
+}
+#searchresults box TD {
+	MARGIN: 0px; COLOR: #165081
+}
+#searchresults box P {
+	MARGIN: 0px; COLOR: #165081
+}
+#searchresults box TD.header {
+	BORDER-TOP: #fff 1px solid; FONT: bold 13px verdana; COLOR: #fff; BORDER-BOTTOM: #6488a7 1px solid; BACKGROUND-COLOR: #92adc5; TEXT-ALIGN: left
+}
+#searchresults box TD A:link {
+	COLOR: #4e759b; LINE-HEIGHT: 20px
+}
+box TD A:visited {
+	COLOR: #4e759b; LINE-HEIGHT: 20px
+}
+box TD A:active {
+	COLOR: #4e759b; LINE-HEIGHT: 20px
+}
+#searchresults box TD A:hover {
+	COLOR: #e3e8ed; LINE-HEIGHT: 20px; BACKGROUND-COLOR: #4e759b
+}
+TD.seosearchboxheader {
+	BORDER-TOP: #fff 1px solid; FONT: bold 11px verdana; COLOR: #fff; BORDER-BOTTOM: #6488a7 1px solid; BACKGROUND-COLOR: #a1bbd3; TEXT-ALIGN: left
+}
+TD.seosearchboxbody {
+	BORDER-RIGHT: #165081 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #165081 1px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #165081 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #165081 1px solid; BACKGROUND-COLOR: #eaeff4
+}
+TD.seobox1 {
+	BORDER-RIGHT: #4e759b 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #4e759b 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #4e759b 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #e7eef2
+}
+TD.seobox2 {
+	PADDING-RIGHT: 2px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BACKGROUND-COLOR: #ffffff
+}
+TD.seobox3 {
+	BORDER-RIGHT: #d1dee5 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #d1dee5 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #d1dee5 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #d1dee5 1px solid; BACKGROUND-COLOR: #f2f8fb
+}
+TD.seobox4 {
+	BORDER-RIGHT: #d1dee5 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #d1dee5 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #d1dee5 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #d1dee5 1px solid; BACKGROUND-COLOR: #ffffff
+}
+P.seop {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 10px
+}
+P.seop2 {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px
+}
+P.seop3 {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 5px
+}
+.cardetailimgs {
+	COLOR: #165081; BACKGROUND-COLOR: #e3e8ed
+}
+DIV.cardetailtabs TABLE TD {
+	BORDER-RIGHT: #fff 4px solid
+}
+DIV.cardetailtabs TABLE {
+	BACKGROUND: #92adc5
+}
+DIV.cardetailtabs TABLE TD A:link {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN: 3px 10px; COLOR: #fff; TEXT-DECORATION: none
+}
+DIV.cardetailtabs TABLE TD A:visited {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN: 3px 10px; COLOR: #fff; TEXT-DECORATION: none
+}
+DIV.cardetailtabs TABLE TD A:active {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN: 3px 10px; COLOR: #fff; TEXT-DECORATION: none
+}
+DIV.cardetailtabs TABLE TD A:hover {
+	COLOR: #e3e8ed; TEXT-DECORATION: underline
+}
+DIV.cardetailtabs TABLE TD.activetab {
+	FONT-WEIGHT: bold; COLOR: #fff; BACKGROUND-COLOR: #4e759b
+}
+DIV.cardetailtabs TABLE TD.activetab A:link {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN: 3px 10px; COLOR: #fff; TEXT-DECORATION: none
+}
+DIV.cardetailtabs TABLE TD.activetab A:visited {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN: 3px 10px; COLOR: #fff; TEXT-DECORATION: none
+}
+DIV.cardetailtabs TABLE TD.activetab A:active {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN: 3px 10px; COLOR: #fff; TEXT-DECORATION: none
+}
+DIV.cardetailinfo {
+	BORDER-RIGHT: #4e759b 1px solid; BORDER-TOP: #4e759b 1px solid; MARGIN: 0px 0px 10px; BORDER-LEFT: #4e759b 1px solid; BORDER-BOTTOM: #4e759b 1px solid; BACKGROUND-COLOR: #e3e8ed
+}
+DIV.cardetailinfo TD {
+	MARGIN: 0px 3px 6px; COLOR: #165081
+}
+DIV.cardetailinfo P.note {
+	MARGIN: 3px 3px 5px; COLOR: #cc6600; BACKGROUND-COLOR: #f2f2f2
+}
+DIV.cardetailinfo P.note A:link {
+	MARGIN: 3px 3px 5px; COLOR: #cc6600; BACKGROUND-COLOR: #f2f2f2
+}
+DIV.cardetailinfo P.note A:visited {
+	MARGIN: 3px 3px 5px; COLOR: #cc6600; BACKGROUND-COLOR: #f2f2f2
+}
+DIV.cardetailinfo P.note A:active {
+	MARGIN: 3px 3px 5px; COLOR: #cc6600; BACKGROUND-COLOR: #f2f2f2
+}
+DIV.cardetailinfo P.note A:hover {
+	MARGIN: 3px 3px 5px; COLOR: #cc6600; BACKGROUND-COLOR: #f2f2f2
+}
+DIV.cardetailinfo TR {
+	
+}
+DIV.article {
+	MARGIN: 0px; COLOR: #92adc5; BORDER-BOTTOM: 1px dotted
+}
+DIV.article P {
+	MARGIN: 0px 3px 6px; COLOR: #165081
+}
+DIV.cardetailinfo TH {
+	BORDER-TOP: #92adc5 1px solid; FONT-WEIGHT: bold; COLOR: #4e759b; BORDER-BOTTOM: #92adc5 2px solid; BACKGROUND-COLOR: #e3e8ed; TEXT-ALIGN: left
+}
+DIV.carsummary {
+	MARGIN: 0px; COLOR: #92adc5; BACKGROUND-COLOR: #fff
+}
+DIV.carsummary TD.carsummarydesc {
+	MARGIN: 0px; BORDER-BOTTOM: #92adc5 1px dotted
+}
+DIV.carsummary TD {
+	MARGIN: 3px
+}
+DIV.carsummary P.carsummarydesc {
+	BORDER-TOP: #92adc5 1px dotted; FONT-WEIGHT: bold; MARGIN: 5px 3px 3px
+}
+DIV.carsummary P {
+	MARGIN: 3px
+}
+DIV.carsummary TR.data1 {
+	MARGIN: 0px; BACKGROUND-COLOR: #f2f2f2
+}
+#wizardwrapper {
+	MARGIN: 10px 0px 0px 15px; LINE-HEIGHT: 1.3em
+}
+#wizardwrapper TABLE {
+	MARGIN: 5px 0px 15px
+}
+#wizardwrapper H1 {
+	FONT-SIZE: 18px; MARGIN: 5px 0px 10px
+}
+.casadstable1 {
+	BORDER-RIGHT: #bfd1e2 1px solid; BORDER-TOP: #bfd1e2 1px solid; BORDER-LEFT: #bfd1e2 1px solid; BORDER-BOTTOM: #bfd1e2 1px solid; BACKGROUND-COLOR: #e7eef2
+}
+.casadstable1 TD {
+	BORDER-TOP: #d2e0ec 1px solid; BORDER-BOTTOM: #fff 1px solid
+}
+.casadstable1 TD.buttons {
+	BACKGROUND: #fff
+}
+.casadstable1 TD.buttons IMG {
+	MARGIN: 3px 0px 0px
+}
+.casadstable1 TABLE TD {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.casadstable2 {
+	BORDER-RIGHT: #bfd1e2 1px solid; BORDER-TOP: #bfd1e2 1px solid; BORDER-LEFT: #bfd1e2 1px solid; BORDER-BOTTOM: #bfd1e2 1px solid; BACKGROUND-COLOR: #e7eef2
+}
+.casadstable2 TD {
+	BORDER-RIGHT: #d9e4ed 1px solid; BORDER-BOTTOM: #fff 1px solid
+}
+.casadstable3 {
+	BORDER-RIGHT: #bfd1e2 1px solid; BORDER-TOP: #bfd1e2 1px solid; BORDER-LEFT: #bfd1e2 1px solid; BORDER-BOTTOM: #bfd1e2 1px solid; BACKGROUND-COLOR: #e7eef2
+}
+.casadstable3 TD {
+	BORDER-RIGHT: #b1c7d9 1px solid; BORDER-BOTTOM: #b1c7d9 1px solid
+}
+.casadstable3 TD UL LI {
+	MARGIN: 0.2em 0px
+}
+.casadstable3 TD.boxhead {
+	BORDER-RIGHT: #517898 1px solid; FONT-SIZE: 12px
+}
+.casadstable3 TD TABLE TD {
+	MARGIN: 0px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.casadstable4 {
+	BACKGROUND-COLOR: #e7eef2
+}
+.casadstable4 TD UL LI {
+	MARGIN: 0.2em 0px
+}
+.casadstable4 TD.boxhead {
+	BORDER-RIGHT: #517898 1px solid; FONT-SIZE: 12px
+}
+.casadstable4 TD TABLE TD {
+	MARGIN: 0px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.embedbox {
+	BORDER-RIGHT: #d7e1e7 1px solid; BORDER-TOP: #d7e1e7 1px solid; BORDER-LEFT: #d7e1e7 1px solid; BORDER-BOTTOM: #d7e1e7 1px solid; BACKGROUND-COLOR: #f3f6f8
+}
+.embedbox2 {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: #999 1px solid; BACKGROUND-COLOR: #dadada
+}
+.embedbox3 {
+	BORDER-RIGHT: #5a83a7 2px solid; BORDER-TOP: #5a83a7 2px solid; BORDER-LEFT: #5a83a7 2px solid; BORDER-BOTTOM: #5a83a7 2px solid; BACKGROUND-COLOR: #fff
+}
+.embedbox3 TEXTAREA {
+	FONT-FAMILY: verdana,arial
+}
+.embedbox4 {
+	BORDER-RIGHT: #d7e1e7 1px solid; BORDER-TOP: #d7e1e7 1px solid; BORDER-LEFT: #d7e1e7 1px solid; BORDER-BOTTOM: #d7e1e7 1px solid; BACKGROUND-COLOR: #fff
+}
+.embedbox4 TD H4 {
+	MARGIN: 5px 0px 10px
+}
+.embedbox4 TD .embedbox3 {
+	MARGIN: 0px auto; WIDTH: 215px
+}
+TD.total {
+	BORDER-TOP: #c60 1px solid; FONT-WEIGHT: bold; BACKGROUND: #fff; COLOR: #c60
+}
+TD.boxhead {
+	BORDER-TOP: #fff 1px solid; FONT: bold 13px verdana; COLOR: #0b3762; BORDER-BOTTOM: #6488a7 1px solid; BACKGROUND-COLOR: #c1cfdc; TEXT-ALIGN: left
+}
+TD.boxhead SMALL {
+	FONT-WEIGHT: normal; COLOR: #0b3762
+}
+TD.boxhead SMALL STRONG {
+	FONT-WEIGHT: bold; COLOR: #0b3762
+}
+.casadsspecialdeal {
+	BORDER-RIGHT: #e8a663 1px solid; BORDER-TOP: #e8a663 1px solid; BACKGROUND: #fff1e2; MARGIN-BOTTOM: 15px; BORDER-LEFT: #e8a663 1px solid; BORDER-BOTTOM: #e8a663 1px solid
+}
+.casadsspecialdeal TD H4 {
+	FONT-WEIGHT: bold; COLOR: #c60
+}
+.casadsspecialdeal TD A {
+	FONT-WEIGHT: bold; COLOR: #c60
+}
+.casadsspecialdeal TD {
+	FONT-SIZE: 90%
+}
+.casadsfeaturebox {
+	BORDER-RIGHT: #ccc 3px solid; BORDER-TOP: #ccc 3px solid; BACKGROUND: #eee; MARGIN-BOTTOM: 15px; BORDER-LEFT: #ccc 3px solid; BORDER-BOTTOM: #ccc 3px solid
+}
+.casadsfeaturebox TD UL {
+	MARGIN: 3px 0px 3px 18px
+}
+.casadsplaceadbox {
+	BORDER-RIGHT: #390 3px solid; BORDER-TOP: #390 3px solid; BACKGROUND: #eee; MARGIN-BOTTOM: 15px; BORDER-LEFT: #390 3px solid; BORDER-BOTTOM: #390 3px solid
+}
+.casadsplaceadbox TD A {
+	FONT-WEIGHT: bold; COLOR: #390
+}
+.offer {
+	BORDER-RIGHT: #c60 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #c60 1px solid; PADDING-LEFT: 2px; MARGIN-BOTTOM: 3px; PADDING-BOTTOM: 2px; BORDER-LEFT: #c60 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #c60 1px solid; BACKGROUND-COLOR: #f7f4f0
+}
+.offer H5 {
+	MARGIN-BOTTOM: 5px
+}
+.offer H5 SPAN {
+	MARGIN-TOP: 0px; FLOAT: right; PADDING-TOP: 0px
+}
+#networkStripTop {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: bold 10px Verdana, Arial, Helvetica, sans-serif; WIDTH: auto; COLOR: #999; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 29px; TEXT-ALIGN: center
+}
+#networkStripBot {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: bold 10px Verdana, Arial, Helvetica, sans-serif; WIDTH: auto; COLOR: #999; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 29px; TEXT-ALIGN: center
+}
+#networkStripTop {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; BACKGROUND: url(http://fdimages.fairfax.com.au/cui/network_bg.gif) #fff repeat-x 0px -1px; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: #999 1px solid
+}
+#networkStripBot {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; BACKGROUND: url(http://fdimages.fairfax.com.au/cui/network_bg.gif) #fff repeat-x 0px -230px; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: #999 1px solid
+}
+#networkStripTop A {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: pointer; TEXT-DECORATION: none
+}
+#networkStripTop A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: pointer; TEXT-DECORATION: none
+}
+#networkStripTop A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: pointer; TEXT-DECORATION: none
+}
+#networkStripTop A:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: pointer; TEXT-DECORATION: none
+}
+#networkStripTop A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: pointer; TEXT-DECORATION: none
+}
+#networkStripBot A {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: pointer; TEXT-DECORATION: none
+}
+#networkStripBot A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: pointer; TEXT-DECORATION: none
+}
+#networkStripBot A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: pointer; TEXT-DECORATION: none
+}
+#networkStripBot A:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: pointer; TEXT-DECORATION: none
+}
+#networkStripBot A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; CURSOR: pointer; TEXT-DECORATION: none
+}
+#networkStripTop A:link {
+	COLOR: #004990
+}
+#networkStripTop A:visited {
+	COLOR: #004990
+}
+#networkStripBot A:link {
+	COLOR: #004990
+}
+#networkStripBot A:visited {
+	COLOR: #004990
+}
+#networkStripTop A:hover {
+	COLOR: #06c
+}
+#networkStripTop A:active {
+	COLOR: #06c
+}
+#networkStripBot A:hover {
+	COLOR: #06c
+}
+#networkStripBot A:active {
+	COLOR: #06c
+}
+#networkStripTop IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#networkStripBot IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#networkStripTop .logo {
+	FLOAT: left; MARGIN: 6px 0px
+}
+#networkStripBot .logo {
+	FLOAT: left; MARGIN: 6px 0px
+}
+#networkStripTop #networkStripAd {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; RIGHT: -1px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100px; BORDER-TOP-STYLE: none; BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: absolute; TOP: 0px; HEIGHT: 29px; BORDER-BOTTOM-STYLE: none
+}
+#networkStripTop .links {
+	MARGIN: 2px 100px 0px; FONT: bold 10px Verdana, Arial, Helvetica, sans-serif; POSITION: relative
+}
+#networkStripBot .links {
+	MARGIN: 0px 0px 0px 100px; FONT: bold 10px Verdana, Arial, Helvetica, sans-serif; POSITION: relative
+}
+.fdMember {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: auto; COLOR: #f2f2f2; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 14px; TEXT-ALIGN: center
+}
+#networkStripTop .fdMember {
+	BACKGROUND-POSITION: 0px -30px; MARGIN-TOP: 1px
+}
+#networkStripBot .fdMember {
+	BACKGROUND-POSITION: 0px -190px; MARGIN-BOTTOM: 1px
+}
+.fdMember TD {
+	BACKGROUND: url(http://fdimages.fairfax.com.au/cui/network_bg.gif) #707070 repeat-x 0px -400px
+}
+#networkStripTop TD A {
+	COLOR: #fff
+}
+#networkStripTop TD A:link {
+	COLOR: #fff
+}
+#networkStripTop TD A:visited {
+	COLOR: #fff
+}
+#networkStripBot TD A {
+	COLOR: #fff
+}
+#networkStripBot TD A:link {
+	COLOR: #fff
+}
+#networkStripBot TD A:visited {
+	COLOR: #fff
+}
+#networkStripTop TD A:hover {
+	COLOR: #fc0
+}
+#networkStripTop TD A:active {
+	COLOR: #fc0
+}
+#networkStripBot TD A:hover {
+	COLOR: #fc0
+}
+#networkStripBot TD A:active {
+	COLOR: #fc0
+}
+#networkStripTop TD.fdMemberL {
+	BACKGROUND-POSITION: 0px -70px; WIDTH: 10px
+}
+#networkStripTop TD.fdMemberC {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px -40px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; WIDTH: auto; PADDING-TOP: 2px
+}
+#networkStripTop TD.fdMemberR {
+	BACKGROUND-POSITION: -50px -100px; WIDTH: 10px
+}
+#networkStripBot TD.fdMemberL {
+	BACKGROUND-POSITION: 0px -130px; WIDTH: 10px
+}
+#networkStripBot TD.fdMemberC {
+	BACKGROUND-POSITION: 0px -190px; PADDING-BOTTOM: 1px; WIDTH: auto
+}
+#networkStripBot TD.fdMemberR {
+	BACKGROUND-POSITION: -50px -160px; WIDTH: 10px
+}
+#networkStripTop TABLE TD {
+	FONT: 10px Verdana, Arial, Helvetica, sans-serif
+}
+#networkStripBot TABLE TD {
+	FONT: 10px Verdana, Arial, Helvetica, sans-serif
+}
+
+@media All    
+{
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+TABLE.header {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+#navcontainer UL {
+	PADDING-LEFT: 0px
+}
+#navcontainer UL LI A {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+#navcontainer UL LI UL LI A {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 18px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+#navcontainer UL LI UL LI UL LI A {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 18px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+TH.emailhdr {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+#searchresults TABLE.header {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+#searchresults DIV.criteria {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+#searchresults TABLE.pagination {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+#searchresults TABLE.pagination TD A:link {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#searchresults TABLE.pagination TD A:visited {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#searchresults TABLE.pagination TD A:active {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#searchresults TABLE.pagination TD A:hover {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#searchresults TABLE.titles {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+#searchresults TABLE.result TH A:link {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#searchresults TABLE.result TH A:visited {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#searchresults TABLE.result TH A:active {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#searchresults TABLE.result TH A:hover {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+#searchresults TABLE.result TD.picture {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+#searchresults TABLE.links {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+.casadstable1 TD {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.casadstable1 TABLE TD {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.casadstable2 TD {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.casadstable3 TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.casadstable3 TD.boxhead {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.casadstable3 TD TABLE TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.casadstable4 TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.casadstable4 TD.boxhead {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.casadstable4 TD TABLE TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+TABLE.embedbox4 TD {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 8px; PADDING-TOP: 8px
+}
+TD.boxhead {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+TD.boxheadsub {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.casadsspecialdeal TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+.casadsfeaturebox TD {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; PADDING-TOP: 6px
+}
+.casadsfeaturebox TD UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.casadsplaceadbox TD {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; PADDING-TOP: 6px
+}
+.offer {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+#masthead {
+	MIN-HEIGHT: 81px; BACKGROUND: url(/images/Bghead.gif) #7c9cbc repeat-x 0px 0px; MARGIN: 0px; WIDTH: 100%; TEXT-ALIGN: center
+}
+#masthead #logo {
+	FLOAT: left; WIDTH: 267px
+}
+#masthead #logo IMG {
+	DISPLAY: block; TEXT-DECORATION: none
+}
+
+}
+
+.boxes {
+	margin: 1px;
+	border: 1px solid #333333;
+	background: #FFFFFF;
+	font-family : Tahoma,Verdana,Arial;
+	font-style: normal;
+	font-size: 11px;
+	color: #003366;
+}
+.boxes2 {
+	margin: 1px;
+	border: 1px solid #3399CC;
+	background: #3399CC;
+	font-family : Tahoma,Verdana,Arial;
+	font-style: normal;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+.text {
+	font-family: verdana,arial,tahoma,geneva,sans-serif,serif;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: 15px;
+	padding-left:0px;	
+	padding-right:0px;		
+}
+.text2 {
+	font-family: verdana,arial,tahoma,geneva,sans-serif,serif;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 15px;
+	padding-left:0px;	
+	padding-right:0px;		
+}
+a:link.sub,a:visited.sub{
+font-family: verdana,arial,tahoma,geneva,sans-serif,serif;
+color:#ffffff;
+font-size: 10px;
+font-style: normal;
+padding-left:10px; 
+padding-right:10px; 
+text-decoration:none;
+}
+
+a:hover.sub{
+font-family: verdana,arial,tahoma,geneva,sans-serif,serif;
+color:#CCcccc;
+font-size: 10px;
+font-style: normal;
+padding-left:10px; 
+padding-right:10px; 
+text-decoration:none;
+}
+a:link.sub2,a:visited.sub2{
+font-family: verdana,arial,tahoma,geneva,sans-serif,serif;
+color:#000000;
+font-size: 12px;
+font-style: normal;
+padding-left:0px; 
+padding-right:0px; 
+text-decoration:none;
+}
+
+a:hover.sub2{
+font-family: verdana,arial,tahoma,geneva,sans-serif,serif;
+color:#0000ff;
+font-size: 12px;
+font-style: normal;
+padding-left:0px; 
+padding-right:0px; 
+text-decoration:none;
+}
+.cardetailimg2 {
+	COLOR: #165081;
+	BACKGROUND-COLOR: #e3e8ed;
+	padding: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+
+
+}
+.carhead2 {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11px;
+	COLOR: #254f79;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+.gentxt {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	color: #000000;
+	padding: 10px;
+
+}

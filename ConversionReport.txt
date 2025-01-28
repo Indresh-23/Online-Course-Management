@@ -1,0 +1,131 @@
+﻿This report shows the steps taken to convert your Web application from ASP.NET 1.1 to ASP.NET 2.0. 
+There may be some unresolved conversion issues you will need to manually fix. 
+For more information, please refer to http://go.microsoft.com/fwlink/?LinkId=46995 or search for the help topic "Converting from Visual Studio .NET 2002 or 2003".
+Conversion Started on project file Greenwich.csproj at March 20 2008, 19:30:58.
+
+=========================ERRORS===================
+ERROR: The following files were not migrated because they were not found in the project file or the associated 'BuildAction' is set to 'None'.
+You may need to exclude these files from the project after the conversion process in order to compile your web site: 
+File List == startexam.aspx.cs,modify_ques.aspx,startexam.aspx,modify_ques.aspx.cs,examination.aspx,examination.aspx.cs.
+
+=========================WARNINGS=================
+Warning: This web project was converted as a file-based web application. If your site contained any IIS meta-information, e.g. sub-folders marked as virtual directories, it is recommended that you close this web site and re-open it using the Open Web Site command and selecting the Local IIS tab.
+
+=========================COMMENTS=================
+Web.Config: Added 'xhtmlConformance' attribute.
+Web.Config: added a reference for assembly System.Windows.Forms.
+Removed attribute AutoEventWireup from file add_course.aspx.
+Removed attribute CodeFile from file add_course.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file add_course.aspx.cs (Line 21).
+Warning: Access level of 'LinkButton1_Click' changed to 'protected' in file add_course.aspx.cs (Line 95).
+Removed attribute AutoEventWireup from file admin_home.aspx.
+Removed attribute CodeFile from file admin_home.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file admin_home.aspx.cs (Line 20).
+Warning: Access level of 'LinkButton1_Click' changed to 'protected' in file admin_home.aspx.cs (Line 52).
+Removed attribute AutoEventWireup from file AdminChangePwd.aspx.
+Removed attribute CodeFile from file AdminChangePwd.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file AdminChangePwd.aspx.cs (Line 21).
+Warning: Access level of 'LinkButton1_Click' changed to 'protected' in file AdminChangePwd.aspx.cs (Line 106).
+Removed attribute AutoEventWireup from file AdminLogin.aspx.
+Removed attribute CodeFile from file AdminLogin.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file AdminLogin.aspx.cs (Line 20).
+Warning: Access level of 'LinkButton1_Click' changed to 'protected' in file AdminLogin.aspx.cs (Line 64).
+Removed attribute TargetSchema from file Banner.ascx.
+Removed attribute CodeFile from file Banner.ascx.
+Removed attribute AutoEventWireup from file Banner.ascx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Banner.ascx.cs (Line 16).
+Removed attribute AutoEventWireup from file Course.aspx.
+Removed attribute CodeFile from file Course.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Course.aspx.cs (Line 22).
+Warning: Access level of 'DropDownList1_SelectedIndexChanged' changed to 'protected' in file Course.aspx.cs (Line 90).
+Removed attribute AutoEventWireup from file Course_Details.aspx.
+Removed attribute CodeFile from file Course_Details.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Course_Details.aspx.cs (Line 23).
+Warning: Access level of 'LinkButton1_Click' changed to 'protected' in file Course_Details.aspx.cs (Line 111).
+Warning: Access level of 'DataGrid2_SelectedIndexChanged' changed to 'protected' in file Course_Details.aspx.cs (Line 132).
+Removed attribute AutoEventWireup from file E_Learn.aspx.
+Removed attribute CodeFile from file E_Learn.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file E_Learn.aspx.cs (Line 20).
+Removed attribute AutoEventWireup from file Emp_Changepwd.aspx.
+Removed attribute CodeFile from file Emp_Changepwd.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Emp_Changepwd.aspx.cs (Line 21).
+Warning: Access level of 'LinkButton1_Click' changed to 'protected' in file Emp_Changepwd.aspx.cs (Line 47).
+Removed attribute AutoEventWireup from file EmpLogin.aspx.
+Removed attribute CodeFile from file EmpLogin.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file EmpLogin.aspx.cs (Line 22).
+Removed attribute AutoEventWireup from file EmpReg.aspx.
+Removed attribute CodeFile from file EmpReg.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file EmpReg.aspx.cs (Line 22).
+Removed attribute AutoEventWireup from file exam_ques.aspx.
+Removed attribute CodeFile from file exam_ques.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file exam_ques.aspx.cs (Line 21).
+Warning: Access level of 'LinkButton1_Click' changed to 'protected' in file exam_ques.aspx.cs (Line 50).
+Removed attribute TargetSchema from file Footer.ascx.
+Removed attribute CodeFile from file Footer.ascx.
+Removed attribute AutoEventWireup from file Footer.ascx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Footer.ascx.cs (Line 16).
+Removed attribute CodeFile from file Global.asax.
+Removed attribute AutoEventWireup from file help1.aspx.
+Removed attribute CodeFile from file help1.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file help1.aspx.cs (Line 20).
+Removed attribute TargetSchema from file Menus.ascx.
+Removed attribute CodeFile from file Menus.ascx.
+Removed attribute AutoEventWireup from file Menus.ascx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Menus.ascx.cs (Line 16).
+Warning: Access level of 'Button2_Click' changed to 'protected' in file Menus.ascx.cs (Line 40).
+Warning: Access level of 'Button5_Click' changed to 'protected' in file Menus.ascx.cs (Line 45).
+Warning: Access level of 'Button3_Click' changed to 'protected' in file Menus.ascx.cs (Line 53).
+Warning: Access level of 'Button1_Click' changed to 'protected' in file Menus.ascx.cs (Line 59).
+Warning: Access level of 'Button4_Click' changed to 'protected' in file Menus.ascx.cs (Line 66).
+Warning: Access level of 'Button7_Click' changed to 'protected' in file Menus.ascx.cs (Line 71).
+Removed attribute AutoEventWireup from file Modify.aspx.
+Removed attribute CodeFile from file Modify.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Modify.aspx.cs (Line 20).
+Warning: Access level of 'LinkButton1_Click' changed to 'protected' in file Modify.aspx.cs (Line 44).
+Removed attribute AutoEventWireup from file Modify_Courses.aspx.
+Removed attribute CodeFile from file Modify_Courses.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Modify_Courses.aspx.cs (Line 20).
+Warning: Access level of 'LinkButton1_Click' changed to 'protected' in file Modify_Courses.aspx.cs (Line 80).
+Warning: Access level of 'Textbox2_TextChanged' changed to 'protected' in file Modify_Courses.aspx.cs (Line 97).
+Removed attribute AutoEventWireup from file Modify_EmpReg.aspx.
+Removed attribute CodeFile from file Modify_EmpReg.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Modify_EmpReg.aspx.cs (Line 20).
+Warning: Access level of 'Button1_Click' changed to 'protected' in file Modify_EmpReg.aspx.cs (Line 48).
+Removed attribute AutoEventWireup from file new_admin.aspx.
+Removed attribute CodeFile from file new_admin.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file new_admin.aspx.cs (Line 20).
+Removed attribute AutoEventWireup from file ReadCourse.aspx.
+Removed attribute CodeFile from file ReadCourse.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file ReadCourse.aspx.cs (Line 20).
+Removed attribute AutoEventWireup from file Session_Details.aspx.
+Removed attribute CodeFile from file Session_Details.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Session_Details.aspx.cs (Line 23).
+Warning: Access level of 'DropDownList1_SelectedIndexChanged' changed to 'protected' in file Session_Details.aspx.cs (Line 70).
+Warning: Access level of 'bsave_Click' changed to 'protected' in file Session_Details.aspx.cs (Line 110).
+Removed attribute AutoEventWireup from file StaffReg.aspx.
+Removed attribute CodeFile from file StaffReg.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file StaffReg.aspx.cs (Line 20).
+Warning: Access level of 'Button2_Click' changed to 'protected' in file StaffReg.aspx.cs (Line 52).
+Warning: Access level of 'Button1_Click' changed to 'protected' in file StaffReg.aspx.cs (Line 67).
+Warning: Access level of 'Button3_Click' changed to 'protected' in file StaffReg.aspx.cs (Line 84).
+Removed attribute AutoEventWireup from file studentchangepwd.aspx.
+Removed attribute CodeFile from file studentchangepwd.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file studentchangepwd.aspx.cs (Line 21).
+Removed attribute TargetSchema from file WebUserControl1.ascx.
+Removed attribute CodeFile from file WebUserControl1.ascx.
+Removed attribute AutoEventWireup from file WebUserControl1.ascx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file WebUserControl1.ascx.cs (Line 16).
+Removed attribute AutoEventWireup from file Welcome.aspx.
+Removed attribute CodeFile from file Welcome.aspx.
+Warning: Access level of 'Page_Load' changed to 'protected' in file Welcome.aspx.cs (Line 20).
+Warning: Access level of 'LinkButton1_Click' changed to 'protected' in file Welcome.aspx.cs (Line 44).
+Added folder App_Code.
+Moved file Global.asax.cs to the App_Code\ directory.
+Moved file Class1.cs to the App_Code\ directory.
+Moved file AssemblyInfo.cs to the App_Code\ directory.
+Changed html validation schema for all projects to 'Internet Explorer 6.0'.
+Removed file Bin\e_learn.dll.
+Removed file Bin\e_learn.pdb.
+Removed file Greenwich.csproj.
+Removed file Greenwich.csproj.webinfo.
+Project Greenwich.csproj has been converted successfully at March 20 2008, 19:31:04.
